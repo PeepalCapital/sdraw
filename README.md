@@ -4,7 +4,7 @@ This tool allows to print CONS cell diagrams in the REPL.
 
 Process to get CONS cell diagrams.
 
-Step 1: Save the sdraw.generic file into the same directory as where the usual files for emacs is saved
+Step 1: Save the sdraw.generic file into the same directory where the usual files for emacs is saved
 
 Step 2: Type this S-expression  (load "sdraw.generic")
 
