@@ -14,15 +14,25 @@ It will generate the following output
 
 
 [*|*]--------------------------->[*|*]---------------------->[*|*]--->NIL
+
  |                                |                           |
+ 
  v                                v                           v
+ 
 [*|*]--->[*|*]--->NIL            [*|*]------->[*|*]--->NIL   EGGS
+
  |        |                       |            |
+ 
  v        v                       v            v
+ 
 FRUITS   [*|*]--->[*|*]--->NIL   VEGETABLES   [*|*]--->[*|*]--->NIL
+
           |        |                           |        |
+          
           v        v                           v        v
+          
          APPLES   MANGOES                     OKRA     BRINJAL
+         
 
 
 Thanks to Professor Touretzky for this tool for studying Common Lisp!
