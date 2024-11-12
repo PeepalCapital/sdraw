@@ -8,6 +8,7 @@ Step 2: Type this S-expression  (load "sdraw.generic")
 Step 3: To draw the CONS cell diagram for say (fruits (apples mangoes)) (vegetables (okra brinjal)) eggs) enter the following S-expression (sdraw '((fruits (apples mangoes)) (vegetables (okra brinjal)) eggs))
 It will generate the following output
 
+
 [*|*]--------------------------->[*|*]---------------------->[*|*]--->NIL
  |                                |                           |
  v                                v                           v
